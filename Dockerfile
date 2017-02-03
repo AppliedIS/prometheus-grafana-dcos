@@ -1,4 +1,4 @@
-FROM grafana/grafana
+FROM grafana/grafana:4.1.1-1484211277
 MAINTAINER Lukas Loesche <lloesche@fedoraproject.org>
 
 EXPOSE 3000
